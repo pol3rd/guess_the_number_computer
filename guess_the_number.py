@@ -28,6 +28,6 @@ def guess_the_number(x):
 
     print(f"Yeeeees!! The computer guessed your number correctly: {prediction}")      
 
-guess_the_number(22)
+guess_the_number(1520)
 
 
